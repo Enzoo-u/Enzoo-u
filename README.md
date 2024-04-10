@@ -1,4 +1,5 @@
-## Bem-vindo(a) ao meu perfil 💎
+## Um estudante de programação que não sabe de nada (ainda)💎
+Atualmente: vendo Ben 10 (Supremacia Alienígena)
 
  <div>
    <a href="https://github.com/Enzoo-u">
